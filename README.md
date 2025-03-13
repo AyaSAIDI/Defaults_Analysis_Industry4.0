@@ -37,5 +37,5 @@ Performance : Analyse des pannes machines et leur évolution au fil du temps, co
 
 Des rôles ont été ajoutés pour permettre aux équipes de chaque continent et de chaque état de visualiser uniquement les données relatives à leurs usines.
 
-Conclusion
+## Conclusion
 Ce projet démontre l'importance de la visualisation des données dans l'industrie. Grâce à Power BI, nous avons pu centraliser et analyser des données complexes, permettant ainsi une prise de décision plus éclairée et une optimisation des processus industriels. Nous espérons que notre travail inspirera d'autres professionnels à exploiter les outils de data visualisation pour améliorer leurs performances.
